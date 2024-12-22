@@ -14,8 +14,16 @@ Welcome to **Signify**, your AI-powered smart assistant that combines intelligen
 ---
 
 ## 📸 Sneak Peek
-Here’s a quick look at Signify in action:  
-<img src="images/signify_demo.gif" alt="Signify Demo" width="600"/>
+Here’s a glimpse of Signify in action! 🌟
+
+### 1️⃣ Home Screen 🏠  
+<img src="images/sign.jpg" alt="Signify Home Screen" width="400"/>
+
+### 2️⃣ Chat Interface 💬  
+<img src="images/chatbot.jpg" alt="Signify Chat Interface" width="400"/>
+
+### 3️⃣ Gesture Control 🚀  
+<img src="images/gesture.jpg" alt="Signify App Launcher" width="400"/>
 
 ---
 
@@ -34,4 +42,4 @@ Follow these simple steps to bring Signify to life! 🌟
 
 1. **Clone the Repository** 🧑‍💻:
    ```bash
-   git clone https://github.com/<your-username>/Signify.git
+   git clone https://github.com/kanikac199/Signify-chatbot-.git
