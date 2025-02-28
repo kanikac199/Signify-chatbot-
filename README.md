@@ -28,12 +28,43 @@ Here’s a glimpse of Signify in action! 🌟
 ---
 
 ## 🛠️ Tech Stack
-Built with love ❤️ and cutting-edge tech 🧑‍💻:
-- **Languages**: Python 🐍, JavaScript 🌐
-- **Libraries/Frameworks**: Flask, TensorFlow, OpenAI API
-- **Front-End**: HTML5, CSS3 🎨
-- **Back-End**: Flask 🧰
-- **Integrations**: HuggingChat 🤝
+
+- **Languages**:  
+  - Python 🐍: Used for building and training the AI models.  
+  - JavaScript 🌐: Handles interactivity on the frontend.  
+
+- **Libraries/Frameworks**:  
+  - Flask 🧰: Connects the AI model to the web interface.  
+  - TensorFlow: For training and optimizing deep learning models.  
+  - OpenAI API: Adds advanced language understanding to the chatbot.  
+  - HuggingChat 🤝: Makes the chatbot's conversations more natural.  
+
+- **Front-End**:  
+  - HTML5: Structures the web pages.  
+  - CSS3 🎨: Styles the web interface.  
+
+- **LLM Fine-Tuning and Evaluation**:  
+  - Customizes language models for better customer support.  
+  - Evaluation Metrics:  
+    - **Accuracy**: 96.5%  
+    - **F1-Score**: 94.8%  
+
+- **Data Preprocessing Pipelines**:  
+  - Cleans and prepares data for training.  
+  - Handles large datasets efficiently.  
+
+- **Model Training and Optimization**:  
+  - Uses TensorFlow for fast and efficient training.  
+  - Includes hyperparameter tuning and early stopping.  
+
+- **Practical Applications of AI/ML**:  
+  - Real-world use in customer support for quick, accurate responses.  
+
+- **Technical Requirements**:  
+  - Deep Learning Fundamentals: Understanding neural networks and optimization.  
+  - Python + TensorFlow Skills: For model building and training.  
+  - Hugging Face Transformers: For advanced NLP tasks.  
+  - Large Dataset Processing: Managing big data efficiently.  
 
 ---
 
